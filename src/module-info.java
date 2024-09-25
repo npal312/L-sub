@@ -1,2 +1,2 @@
-module num2let {
+module com.example.numbertoletter {
 }
